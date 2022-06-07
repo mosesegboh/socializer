@@ -1,0 +1,46 @@
+.like-icon {
+    cursor: pointer;  
+    transition:0.3s; 
+    float:right;
+}
+
+.like-button {
+    cursor: pointer;  
+    transition:0.3s; 
+    float:right;
+}
+
+.share-tweet-button {
+    cursor: pointer;  
+    transition:0.3s; 
+    float:right;
+}
+
+a {
+    text-decoration:none;
+}
+
+.follow-info {
+    flex-direction: "row";
+    margin-left: 0;
+}
+
+.user-list-options {
+    z-index: 100;
+    position: absolute;
+}
+
+.search-form-inner {
+    float: 'right';
+    width: 200px;
+}
+
+second-inner {
+    float: 'right';
+}
+
+.ajax-load{
+    background: #e1e1e1;
+    padding: 10px 0px;
+    width: 100%;
+}
